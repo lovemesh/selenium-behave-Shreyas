@@ -1,0 +1,2 @@
+[console_scripts]
+selenium-behave-gen = selenium_behave.cli:main
